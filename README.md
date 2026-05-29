@@ -262,8 +262,8 @@ With another week, I would add:
 ## How to Build & Run
 
 ```bash
-git clone https://github.com/yourusername/adaptive-execution-engine
-cd adaptive-execution-engine
+git clone https://github.com/AkshayTeja3/ChronosExec.git
+cd ChronosExec
 mkdir build && cd build
 cmake ..
 make
