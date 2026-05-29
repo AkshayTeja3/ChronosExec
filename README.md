@@ -1,4 +1,5 @@
 [![C++20](https://img.shields.io/badge/C%2B%2B-20-blue.svg)](https://isocpp.org/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Speedup](https://img.shields.io/badge/Speedup-4.03x-brightgreen.svg)]()
 [![Cost Reduction](https://img.shields.io/badge/Cost%20Reduction-64%25-red.svg)]()
 
